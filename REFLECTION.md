@@ -20,3 +20,7 @@
 # API KEY
 
 - I9AVaKH6PssQl8Suba6fGAa1In6kp2p3bSJQRf1w
+
+# Websites used
+
+- https://www.w3schools.com/jsref/jsref_map.asp (forEach not working)
