@@ -24,3 +24,5 @@
 # Websites used
 
 - https://www.w3schools.com/jsref/jsref_map.asp (forEach not working)
+
+- https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event (DOMContentLoaded)
