@@ -69,7 +69,7 @@ function displayPhotos(photos, description) {
         const photoElement = document.createElement('div');
         photoElement.classList.add('photo-item');
         photoElement.innerHTML = `
-            <img src="${img_src}" alt="Mars Rover Photo" width="200">
+            <img src="${img_src}" alt="Mars Rover Photo">
             <p>Date: ${earth_date}</p>
             <p>Sol: ${sol}</p>
             <p>Camera: ${full_name}</p>`;
